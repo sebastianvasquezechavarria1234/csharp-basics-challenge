@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{AC9D5CA6-1F29-4B0D-A463-1A40CB33BF07}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>taller_1</RootNamespace>
-    <AssemblyName>taller 1</AssemblyName>
+    <RootNamespace>csharp_basics_challenge</RootNamespace>
+    <AssemblyName>csharp-basics-challenge</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

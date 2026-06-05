@@ -22,7 +22,7 @@ This project serves as an introductory exercise covering:
    ```bash
    git clone https://github.com/sebastianvasquezechavarria1234/donet.git
    ```
-2. Open the `taller 1.sln` solution file in Visual Studio.
+2. Open the `csharp-basics-challenge.sln` solution file in Visual Studio.
 3. Build the solution.
 4. Run the application to interact with the console prompts.
 

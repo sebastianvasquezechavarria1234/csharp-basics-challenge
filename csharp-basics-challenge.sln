@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taller 1", "taller 1\taller 1.csproj", "{AC9D5CA6-1F29-4B0D-A463-1A40CB33BF07}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-basics-challenge", "csharp-basics-challenge\csharp-basics-challenge.csproj", "{AC9D5CA6-1F29-4B0D-A463-1A40CB33BF07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
